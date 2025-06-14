@@ -1,0 +1,1 @@
+Bu Bash betiği, kullanıcıdan bir site adresi alır. Ardından, o siteye ping komutu göndererek ulaşılabilirliğini test eder.
